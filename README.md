@@ -3,6 +3,11 @@
 ## Overview
 This Currency Converter web application allows users to easily convert currencies based on the latest exchange rates. It provides a simple and intuitive interface for users to input the amount, select the source currency, choose the target currency, and get the updated exchange rate.
 
+## Live Demo
+
+You can play the game online by visiting the live demo [here](https://rahulshah8383.github.io/Currency-Converter/).
+
+
 ## Features
 - **User-Friendly Interface:** The web app offers a clean and responsive design, making it easy for users to navigate and perform currency conversions.
 - **Real-Time Exchange Rates:** The application fetches the latest exchange rates from a reliable API, ensuring accuracy in currency conversion.
